@@ -1,0 +1,29 @@
+.Library{
+    color: red;
+    border: 2px solid green;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.secondDivision{
+    border: 2px solid green;
+}
+
+.imag1 {
+    width: 20px;
+    text-align: center;
+}
+
+.WelcomeToTheLibrary{
+    color: orange;
+    border: 2px solid green;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+.link{margin-left:200px;font-size: larger;border: green; background-color: white;}
+.library{text-align: center;color:black;background-color: red;}
+.TheBiggestonlineLibrary{text-align: center;color:black;}
+.Table{margin-left:150px;font-size:40px; border: green; background-color: white;}
